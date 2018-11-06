@@ -19,19 +19,19 @@ PO website
   p {font-size: 16px;}
   .margin {margin-bottom: 45px;}
   .bg-1 { 
-      background-color: #1abc9c; /* #b71919 */
+      background-color: #b71919; /* MOOIKLEURTJE */
       color: #ffffff;
   }
   .bg-2 { 
-      background-color: #474e5d; /* #1966b7 */
+      background-color: #1966b7; /* NOGMOOIERKLEURTJE */
       color: #ffffff;
   }
   .bg-3 { 
-      background-color: #ffffff; /* #b6bad8 */
+      background-color: #b6bad8; /* MINDERMOOIKLEURTJE */
       color: #555555;
   }
   .bg-4 { 
-      background-color: #2f2f2f; /* #0a8785 */
+      background-color: #0a8785; /* DEGELIJKKLEURTJE */
       color: #fff;
   }
   .container-fluid {
